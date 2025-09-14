@@ -1,9 +1,0 @@
-version: '3.8'
-
-services:
-  desktop-container:
-    build: .
-    container_name: my-remote-desktop
-    ports:
-      - "2222:22"        # Map cổng 22 của container ra cổng 2222 của máy thật (dùng cho SSH)
-      - "5901:5901"      # Map cổng 5901 của container ra cổng 5901 của máy thật (dùng cho VNC)
