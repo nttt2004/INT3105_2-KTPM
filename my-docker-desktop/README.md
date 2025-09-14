@@ -9,7 +9,7 @@
 
 - Docker Desktop đã được cài đặt và đang chạy.
 
-## Hướng dẫn Cài đặt và Sử dụng
+## Các bước cài đặt và sử dụng
 
 ### Bước 1: Build và Chạy Container
 
