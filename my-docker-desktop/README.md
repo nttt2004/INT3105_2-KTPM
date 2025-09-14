@@ -1,5 +1,5 @@
 # Bài tập tuần 1
-# Đề bài:
+## Đề bài:
 - Tạo một image docker bằng docker-composer, cài đặt vnc-server và một DE - desktop environment (Xfce/GNOME/LXDE/LXQt/KDE/...) cho image đó. Thử remote thông qua trình vnc-viewer trên máy.
 - Lưu ý không dùng các image có sẵn các gói nêu trên.
 - Được phép cài các package sau khi đã truy cập được máy ảo.
